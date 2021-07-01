@@ -8,12 +8,7 @@ psql -U rinat -d test -h 127.0.0.1 -W
 
 
 
-#pgAdmin
-sadekovlar@mail.ru
-05203rinat
-#postgress
-postgres:postgres
-rinat:05203
+
 
 
 SELECT datname FROM pg_database; - list of all database
