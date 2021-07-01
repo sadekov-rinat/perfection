@@ -1,0 +1,5 @@
+<packet>
+<header entity='users' method='check' id = '234'/>
+<attributes a1='login' a2='password'/>
+<conditions login='>23' password = '0234'/>
+</packet>
